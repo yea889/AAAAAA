@@ -1,0 +1,25 @@
+{
+  "name": "@pipedream/showpad",
+  "version": "0.0.1",
+  "description": "Pipedream Showpad Components",
+  "main": "dist/app/showpad.app.mjs",
+  "keywords": [
+    "pipedream",
+    "showpad"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://pipedream.com/apps/showpad",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@pipedream/types": "^0.1.4"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  }
+}

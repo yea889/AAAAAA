@@ -1,0 +1,16 @@
+{
+  "name": "@pipedream/intuiface",
+  "version": "0.0.3",
+  "description": "Pipedream Intuiface Components",
+  "main": "dist/app/intuiface.app.mjs",
+  "keywords": [
+    "pipedream",
+    "intuiface"
+  ],
+  "homepage": "https://pipedream.com/apps/intuiface",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

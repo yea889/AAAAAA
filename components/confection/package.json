@@ -1,0 +1,7 @@
+{
+  "version": "0.0.4",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "axios": "^0.23.0"
+  }
+}

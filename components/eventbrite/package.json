@@ -1,0 +1,22 @@
+{
+  "name": "@pipedream/eventbrite",
+  "version": "0.0.4",
+  "description": "Pipedream Eventbrite Components",
+  "main": "eventbrite.app.js",
+  "keywords": [
+    "pipedream",
+    "eventbrite"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://pipedream.com/apps/eventbrite",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "lodash": "^4.17.21"
+  }
+}

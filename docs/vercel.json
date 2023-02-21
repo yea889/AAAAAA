@@ -1,0 +1,66 @@
+{
+  "redirects": [
+    {
+      "source": "/notebook/actions/",
+      "destination": "/workflows/steps/actions/"
+    },
+    { "source": "/cron", "destination": "/workflows/steps/triggers" },
+    { "source": "/notebook", "destination": "/workflows/steps" },
+    { "source": "/workflows/fork", "destination": "/workflows/copy" },
+    { "source": "/notebook/fork", "destination": "/workflows/copy" },
+    {
+      "source": "/notebook/inspector/",
+      "destination": "/workflows/events/inspect/"
+    },
+    {
+      "source": "/notebook/destinations/s3/",
+      "destination": "/destinations/s3/"
+    },
+    {
+      "source": "/notebook/destinations/sse/",
+      "destination": "/destinations/sse/"
+    },
+    {
+      "source": "/notebook/destinations/snowflake/",
+      "destination": "/destinations/snowflake/"
+    },
+    {
+      "source": "/notebook/destinations/http/",
+      "destination": "/destinations/http/"
+    },
+    {
+      "source": "/notebook/destinations/email/",
+      "destination": "/destinations/email/"
+    },
+    { "source": "/notebook/destinations/", "destination": "/destinations/" },
+    { "source": "/notebook/code/", "destination": "/workflows/steps/code/" },
+    {
+      "source": "/notebook/observability/",
+      "destination": "/workflows/events/inspect/"
+    },
+    {
+      "source": "/notebook/sources/",
+      "destination": "/workflows/steps/triggers/"
+    },
+    { "source": "/notebook/sql/", "destination": "/destinations/sql/" },
+    { "source": "/what-is-pipedream/", "destination": "/" },
+    {
+      "source": "/apps/intercom",
+      "destination": "https://pipedream.com/apps/intercom"
+    },
+    {
+      "source": "/apps/zoho-books",
+      "destination": "https://pipedream.com/apps/zoho_books"
+    },
+    {
+      "source": "/apps/zoho-crm",
+      "destination": "https://pipedream.com/apps/zoho_crm"
+    },
+    {
+      "source": "/apps/zoho-mail",
+      "destination": "https://pipedream.com/apps/zoho_mail"
+    },
+    { "source": "/support", "destination": "https://pipedream.com/support" },
+    { "source": "/(.*)", "destination": "https://pipedream.com/docs/$1" }
+  ]
+}

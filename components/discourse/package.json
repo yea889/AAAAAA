@@ -1,0 +1,18 @@
+{
+  "name": "@pipedream/discourse",
+  "version": "0.0.4",
+  "description": "Pipedream Discourse Components",
+  "main": "dist/app/discourse.app.mjs",
+  "keywords": [
+    "pipedream",
+    "discourse"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://pipedream.com/apps/discourse",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,10 @@
+*.md.orig.*
+*.md.toc.*
+gh-md-toc
+.DS_Store
+.vscode
+.idea
+node_modules
+.eslintcache
+
+.vercel

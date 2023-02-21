@@ -1,0 +1,19 @@
+{
+  "name": "@pipedream/bingx",
+  "version": "0.0.6",
+  "description": "Pipedream BingX Components",
+  "main": "bingx.app.mjs",
+  "keywords": [
+    "pipedream",
+    "bingx"
+  ],
+  "homepage": "https://pipedream.com/apps/bingx",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  }
+}
